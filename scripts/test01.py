@@ -11,3 +11,8 @@ class Test01:
     def test002(self):
         allure.attach("失败原因：", "断言错误！")
         print("test002被执行")
+
+        
+        
+        
+        哈你好哈喽
